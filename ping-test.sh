@@ -1,2 +1,2 @@
 #!/bin/bash
-ping google.com
+ping -c 3 google.com
